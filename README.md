@@ -1,2 +1,2 @@
 # Rapid-Fire
-"Target shooting" type game, in 2D format, using `pygame`.
+Target shooting video-game in 2D format, using `pygame`.
